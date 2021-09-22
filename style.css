@@ -1,5 +1,14 @@
-.container{
+.box1{
+    margin-bottom: 50px;
+}
+.phon{
     margin-bottom: 100px;
+}
+.asus{
+   margin-bottom: 100px;
+}
+.tatagories{
+     margin-bottom: 100px;
 }
 .logo{
     width: 120px;
@@ -26,6 +35,30 @@
 .card{
     border-radius: 10px;
     border: none;
+}
+.p1{
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 5px;
+}
+.p2{
+    box-shadow: 5px 5px 10px lightgray;
+      border-radius: 5px;
+}
+.p3{
+    box-shadow: 5px 5px 10px lightgray;
+      border-radius: 5px;
+}
+.l1{
+    box-shadow: 5px 5px 10px lightgray;
+      border-radius: 5px;
+}
+.l2{
+    box-shadow: 5px 5px 10px lightgray;
+      border-radius: 5px;
+}
+.l3{
+    box-shadow: 5px 5px 10px lightgray;
+      border-radius: 5px;
 }
 .asus{
     background-image: url("bg-2.png");
